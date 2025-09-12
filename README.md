@@ -2,7 +2,7 @@
 
 백엔드 개발자 · Java & Spring Boot · “끊기지 않는 학습 경험을 만드는 사람”
 
-[![Java](https://img.shields.io/badge/Java-21+-red?logo=openjdk)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=spring-boot\&logoColor=white)](https://spring.io/projects/spring-boot) [![JPA](https://img.shields.io/badge/JPA%20\(Hibernate\)-59666C?logo=hibernate)](https://hibernate.org/) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white)](https://mariadb.org/) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/) [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx\&logoColor=white)](https://nginx.org/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions\&logoColor=white)](https://github.com/features/actions) [![JWT](https://img.shields.io/badge/JWT-Security-000000?logo=jsonwebtokens\&logoColor=white)](https://jwt.io/) [![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-FFCD00?logo=openid\&logoColor=000)](#)
+[![Java](https://img.shields.io/badge/Java--red?logo=openjdk)](https://www.oracle.com/java/) [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=spring-boot\&logoColor=white)](https://spring.io/projects/spring-boot) [![JPA](https://img.shields.io/badge/JPA%20\(Hibernate\)-59666C?logo=hibernate)](https://hibernate.org/) [![MyBatis](https://img.shields.io/badge/MyBatis-000000?logo=databricks\&logoColor=white)](https://mybatis.org/) [![JSP](https://img.shields.io/badge/JSP-007396?logo=java\&logoColor=white)](#) [![MariaDB](https://img.shields.io/badge/MariaDB-003545?logo=mariadb\&logoColor=white)](https://mariadb.org/) [![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)](https://aws.amazon.com/) [![Nginx](https://img.shields.io/badge/Nginx-009639?logo=nginx\&logoColor=white)](https://nginx.org/) [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?logo=github-actions\&logoColor=white)](https://github.com/features/actions) [![JWT](https://img.shields.io/badge/JWT-Security-000000?logo=jsonwebtokens\&logoColor=white)](https://jwt.io/) [![OAuth2](https://img.shields.io/badge/OAuth2-Authentication-FFCD00?logo=openid\&logoColor=000)](#)
 
 ---
 
@@ -19,9 +19,9 @@
 
 ## 🛠 Tech Stack
 
-**Backend**: Java, Spring Boot 3.x, Spring Data JPA(Hibernate), MyBatis, JSP, MapStruct, Validation,
+**Backend**: Java, Spring Boot 3.x, Spring Data JPA(Hibernate), MyBatis, JSP, MapStruct, Validation
 **Auth**: Spring Security, JWT, OAuth2
-**Data**: MySQL, Oracle, MariaDB (AWS RDS)
+**Data**: MariaDB (AWS RDS)
 **Infra**: AWS EC2, S3, Nginx, GitHub Actions, Zero‑downtime deploy
 **Docs**: OpenAPI(Swagger), Mermaid
 
@@ -63,6 +63,7 @@
 ### From Sound Engineer to Backend Developer
 
 무대 뒤에서 *끊김 없는 사운드*를 만들던 경험을, 이제는 백엔드에서 *끊김 없는 경험*으로 확장하고 있습니다.
+
 
 
 <!--
