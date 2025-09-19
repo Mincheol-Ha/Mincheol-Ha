@@ -1,4 +1,5 @@
-<img width="400" height="260" alt="MINCHEOL-HA_img" src="https://github.com/user-attachments/assets/129738e2-ea0a-4a03-b180-8f79956210bf" />
+<img width="390" height="260" alt="ChatGPT Image 2025년 9월 19일 오후 03_48_02" src="https://github.com/user-attachments/assets/e12f39d5-eea3-4ff4-9670-c03aa157caa8" />
+
 
 백엔드 개발자 · Java & Spring Boot · “끊기지 않는 학습 경험을 만드는 사람”
 
