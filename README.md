@@ -1,4 +1,4 @@
-# 하민철 (Mincheol Ha)
+<img width="400" height="260" alt="MINCHEOL-HA_img" src="https://github.com/user-attachments/assets/129738e2-ea0a-4a03-b180-8f79956210bf" />
 
 백엔드 개발자 · Java & Spring Boot · “끊기지 않는 학습 경험을 만드는 사람”
 
