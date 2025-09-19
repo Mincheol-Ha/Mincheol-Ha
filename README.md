@@ -1,6 +1,7 @@
-![gif](https://github.com/user-attachments/assets/af67e134-ca18-42c5-8873-26543b64b1e1)
 
-백엔드 개발자 · Java & Spring Boot · “끊기지 않는 학습 경험을 만드는 사람”
+<img width="380" height="260" alt="mincheol-ha" src="https://github.com/user-attachments/assets/7f12d14a-66a1-42ee-b3c2-50e80b376c71" />
+
+#### 백엔드 개발자 · Java & Spring Boot · “끊기지 않는 학습 경험을 만드는 사람”
 
 [![Java](https://img.shields.io/badge/Java--red?logo=openjdk)](https://www.oracle.com/java/) 
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.x-6DB33F?logo=spring-boot&logoColor=white)](https://spring.io/projects/spring-boot) 
