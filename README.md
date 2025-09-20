@@ -33,11 +33,11 @@
 
 ## 🛠 Tech Stack
 
-**Backend**: Java, Spring Boot 3.x, Spring Data JPA(Hibernate), MyBatis, JSP, MapStruct, Validation
-**Auth**: Spring Security, JWT, OAuth2
-**Data**: MariaDB (AWS RDS)
-**Infra**: AWS EC2, S3, Nginx, GitHub Actions, Zero‑downtime deploy
-**Docs**: OpenAPI(Swagger), Mermaid
+* **Backend**: Java, Spring Boot 3.x, Spring Data JPA(Hibernate), MyBatis, JSP, MapStruct, Validation
+* **Auth**: Spring Security, JWT, OAuth2
+* **Data**: MariaDB (AWS RDS)
+* **Infra**: AWS EC2, S3, Nginx, GitHub Actions, Zero‑downtime deploy
+* **Docs**: OpenAPI(Swagger), Mermaid
 
 ---
 
