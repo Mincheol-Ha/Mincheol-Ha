@@ -27,7 +27,7 @@
 * 새로운 기술을 학습하고, 문제를 구조적으로 해결하는 과정을 즐깁니다.
 
 **Contact**
-[Email](mailto:hmc0501@gmail.com) · [Blog](https://blog.naver.com/m1nch201) · [GitHub](https://github.com/Mincheol-Ha) · [Notion](https://iii.ad/a3943d)
+[Email](mailto:hmc0501@gmail.com) · [Blog](https://blog.naver.com/m1nch201) · [GitHub](https://github.com/Mincheol-Ha) · [Notion](https://www.notion.so/9b3084fd6e28499a9952357d6e4d4650)
 
 ---
 
